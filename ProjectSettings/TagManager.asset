@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Bullets
   - Shard
+  - Enemy_ship
+  - Enemy_Bullet
+  - Bonus_weapon
   layers:
   - Default
   - TransparentFX

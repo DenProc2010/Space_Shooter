@@ -573,7 +573,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1190685225
 GameObject:
@@ -5757,7 +5757,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3741118557611284676, guid: b07c2dd05d26cf6489a6c279710fcfc6, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3741118557611284676, guid: b07c2dd05d26cf6489a6c279710fcfc6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5828,6 +5828,10 @@ PrefabInstance:
       objectReference: {fileID: 812119408}
     - target: {fileID: 4694762471706245832, guid: cea1a031de9318b4a935cb45e193d531, type: 3}
       propertyPath: m_Name
+      value: Enemy_ship
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694762471706245832, guid: cea1a031de9318b4a935cb45e193d531, type: 3}
+      propertyPath: m_TagString
       value: Enemy_ship
       objectReference: {fileID: 0}
     - target: {fileID: 4694762471706245834, guid: cea1a031de9318b4a935cb45e193d531, type: 3}
