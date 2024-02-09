@@ -9,6 +9,8 @@ TagManager:
   - Enemy_ship
   - Enemy_Bullet
   - Bonus_weapon
+  - Asteroid
+  - Mine
   layers:
   - Default
   - TransparentFX
